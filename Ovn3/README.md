@@ -10,10 +10,7 @@
 ### Task 2 - Fractal Images
 
 - I have 8 CPUs
-- Given `Julia.go` version terminates in 16.4 seconds, my first parallel version [julia.go](https://gits-15.sys.kth.se/dd1396ht20/taxberg-ovn3/blob/master/julia_v1.go) terminates in 3 seconds and my second [julia_v2.go](https://gits-15.sys.kth.se/dd1396ht20/taxberg-ovn3/blob/master/julia_v2.go) terminates in 2.5 seconds. Result: Parallel second version is 13.9 seconds faster than the given non-parallel `Julia.go`.
-
-[julia_v2.go](https://gits-15.sys.kth.se/dd1396ht20/taxberg-ovn3/blob/master/julia_v2.go) 
-
+- Given `Julia.go` version terminates in 16.4 seconds, my first parallel version [julia_v1.go](https://gits-15.sys.kth.se/dd1396ht20/taxberg-ovn3/blob/master/julia_v1.go) terminates in 3 seconds and my second [julia_v2.go](https://gits-15.sys.kth.se/dd1396ht20/taxberg-ovn3/blob/master/julia_v2.go) terminates in 2.5 seconds. Result: Parallel second version is 13.9 seconds faster than the given non-parallel `Julia.go`.
 
 
 ### Task 3 - Weather station
