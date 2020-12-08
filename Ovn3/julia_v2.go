@@ -1,5 +1,3 @@
-// Stefan Nilsson 2013-02-27
-
 // This program creates pictures of Julia sets (en.wikipedia.org/wiki/Julia_set).
 package main
 
